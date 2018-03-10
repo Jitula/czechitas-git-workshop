@@ -5,7 +5,7 @@ A2 - nabíjecí kabel
 A3
 A4
 A5 - hromada sešitù
-B1 - pracovní plocha
+B1 - hromada sešitù
 B2 - notebook
 B3 - notebook
 B4 - notebook
